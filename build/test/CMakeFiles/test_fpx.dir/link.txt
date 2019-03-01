@@ -1,0 +1,1 @@
+/usr/bin/cc  -pipe -std=c99 -m64 -Wall   -O3 -funroll-loops -fomit-frame-pointer -finline-small-functions -march=native -mtune=native -pthread  -L/home/yd/relic/src/low/gmp/  CMakeFiles/test_fpx.dir/test_fpx.c.o  -o ../bin/test_fpx -rdynamic ../lib/librelic_s.a -lgmp -lrt -lpthread -lm 
