@@ -1,7 +1,10 @@
 ![](https://github.com/relic-toolkit/relic/blob/master/art/logo.png)
 =====
 
-RELIC is a modern cryptographic meta-toolkit with emphasis on efficiency and flexibility. RELIC can be used to build efficient and usable cryptographic toolkits tailored for specific security levels and algorithmic choices.
+RELIC is a modern cryptographic meta-toolkit with emphasis on efficiency and flexibility. RELIC can be used to build efficient and usable cryptographic toolkits tailored for specific security levels and algorithmic choices.This is a clone version for opensse. 
+
+
+This is a clone version for opensse. 
 
 ### Goals
 
